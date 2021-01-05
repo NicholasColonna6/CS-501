@@ -1,0 +1,12 @@
+BreakOut Game Directions:
+
+The goal of the game is to break all of the bricks with the ball without letting the ball drop 
+below the paddle.
+
+After starting the program, the user left-clicks to start the game. The ball will then proceed
+upwards from the paddle on the bottom, breaking any brick that it strikes. To control the paddle,
+the user uses the left arrow key to slide left and the right arrow key to slide right. Depending on
+where the ball strikes the paddle, the ball could deflect leftwards or rightwards. If the ball falls 
+below the paddle, the paddle and ball will reset in the center and the user must left-click to send 
+the ball upwards again. If the ball falls below the paddle a second time, it is game over and the 
+program has to be restarted to play again.
